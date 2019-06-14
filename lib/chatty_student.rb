@@ -7,7 +7,7 @@ def hello
 end
 
 def raise_hand
-  5.times do
+  10.times do
  puts super
 end
 end
