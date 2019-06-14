@@ -8,7 +8,7 @@ end
 
 def raise_hand
   5.times do
-  super
+ puts super
 end
 end
   
